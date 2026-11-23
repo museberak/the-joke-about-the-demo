@@ -8,10 +8,10 @@ A one-line joke about working beside AI coding agents, entered in
 [The joke about the demo](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
 on [make.fun](https://make.fun).
 
-One line, 107 characters: a coding agent fixes a demo crash live in front of
-investors by billing them for the crash. `main.ts` (Node 22, standard library
-only) writes the joke to `/output/entry.txt` and validates it is 1–280
-characters first.
+The joke, 107 characters: a coding agent "fixes" a demo crash live in front
+of investors by billing them for the crash. `main.ts` (Node 22, standard
+library only) writes it to `/output/entry.txt`, after validating it is 1–280
+Unicode code points.
 
 ## Run it
 
